@@ -56,7 +56,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [AJ-7885/web-auth](https://github.com/AJ-7885/web-auth)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|47<br/>Tools used|12/14/23 <br/>Report generated|
+|49<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -288,9 +288,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (22)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (24)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (22)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (24)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -303,6 +303,7 @@ Full tech stack [here](/techstack.md)
 |[@types/react-dom](https://www.npmjs.com/@types/react-dom)|v18.2.7|09/26/23|Kent C. Dodds |MIT|N/A|
 |[address](https://www.npmjs.com/address)|v1.2.2|09/26/23|Kent C. Dodds |MIT|N/A|
 |[bcryptjs](https://www.npmjs.com/bcryptjs)|v2.4.3|09/16/23|Kent C. Dodds |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|07/24/23|Kent C. Dodds |MIT|N/A|
 |[chokidar](https://www.npmjs.com/chokidar)|v3.5.3|09/16/23|Kent C. Dodds |MIT|N/A|
 |[compression](https://www.npmjs.com/compression)|v1.7.4|09/26/23|Kent C. Dodds |MIT|N/A|
 |[cross-env](https://www.npmjs.com/cross-env)|v7.0.3|07/24/23|Kent C. Dodds |MIT|N/A|
@@ -314,6 +315,7 @@ Full tech stack [here](/techstack.md)
 |[glob](https://www.npmjs.com/glob)|v10.3.9|09/26/23|Kent C. Dodds |ISC|N/A|
 |[morgan](https://www.npmjs.com/morgan)|v1.10.0|09/16/23|Kent C. Dodds |MIT|N/A|
 |[npm-run-all](https://www.npmjs.com/npm-run-all)|v4.1.5|09/26/23|Kent C. Dodds |MIT|N/A|
+|[qrcode](https://www.npmjs.com/qrcode)|v1.5.3|09/16/23|Kent C. Dodds |MIT|N/A|
 |[react-dom](https://www.npmjs.com/react-dom)|v18.2.0|09/26/23|Kent C. Dodds |MIT|N/A|
 |[tailwindcss](https://www.npmjs.com/tailwindcss)|v3.3.3|09/16/23|Kent C. Dodds |MIT|N/A|
 
